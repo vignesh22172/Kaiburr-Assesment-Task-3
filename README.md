@@ -9,9 +9,9 @@
 
 A modern, accessible React + TypeScript frontend application for managing records and running commands with live output. Built with enterprise-grade UI components and comprehensive accessibility features.
 
-![Web UI Frontend Screenshot](https://via.placeholder.com/800x400/1890FF/FFFFFF?text=Web+UI+Frontend+Demo)
+
 ![Demo](demo.gif)
-ffmpeg -i demo.mp4 -vf "fps=10,scale=640:-1" demo.gif
+![Image](https://github.com/user-attachments/assets/e07dcc2a-1a8a-4d07-b8a9-60ee9f0e5773)
 
 ## ✨ Features
 
@@ -194,6 +194,4 @@ src/
 4. Test accessibility with screen readers
 5. Submit a pull request
 
-## License
 
-MIT License - see LICENSE file for details
